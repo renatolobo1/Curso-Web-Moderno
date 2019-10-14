@@ -5,5 +5,5 @@ for (let i = 0; i < 10; i++){
         console.log(i)
     })
 }
-funcs[2]()
-funcs[8]()
+funcs[1]()
+funcs[9]()
