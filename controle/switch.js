@@ -4,5 +4,5 @@ const imprimirResultado = function (nota) {
         case 9:
             console.log('Quadro de Honra')
     }
-} 22
+} 
 imprimirResultado(7)
